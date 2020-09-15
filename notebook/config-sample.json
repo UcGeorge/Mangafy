@@ -1,0 +1,26 @@
+{
+    "token": "TOKEN",
+    "scrape_interval": 240,
+    "db": {
+        "host": "localhost",
+        "port": 27017,
+        "db_name": "devjobhub"
+    },
+    "messages": {
+        "start_message": "<b>Welcome to Mangafy!</b>\n\nTo start, let's add your first manga",
+        "after_exit_message": "What would you like to do now?",
+        "channel_message": "\n\nDon't forget to join @Mangafy for regular updates 🎙🎙🎙",
+        "discussion_message": "\n\nJoin the discussion at <a href : 'https://t.me/joinchat/KhhzhlSDFwIOCfe5MFRweg'>Mangafy</a>",
+        "underdev_message": "Oops!\nThis feature is still under development.\nBut you can always",
+        "invalid_message": "Oops!\nYou weren't supposed to do that there😌\nHere's what you can do",
+        "empty_message": "Looks like you don't have any manga in your alerts list.",
+        "error_message": "I can help you keep tabs on manga you read. All you've gotta do is tell me the manga.\nRelax and leave the rest to me😌\nSo here's what's up"
+    },
+    "urls": {
+        "home_url": "https://manganelo.com",
+        "latest_url": "https://manganelo.com/genre-all",
+        "hot_url": "https://manganelo.com/genre-all?type=topview",
+        "newest_url": "https://manganelo.com/genre-all?type=newest",
+        "search_url": "https://manganelo.com/search/story/{}"
+    }
+}

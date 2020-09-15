@@ -1,0 +1,6 @@
+mysql
+requests
+bs4
+json
+python-telegram-bot
+telegram
