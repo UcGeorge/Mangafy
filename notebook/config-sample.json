@@ -5,7 +5,6 @@
         "host": "localhost",
         "port": 27017,
         "db_name": "devjobhub"
-        //add your password here
     },
     "messages": {
         "start_message": "<b>Welcome to Mangafy!</b>\n\nTo start, let's add your first manga",
